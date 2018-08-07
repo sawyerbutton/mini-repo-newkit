@@ -8,4 +8,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - run test for this file, can not display the debug dialog in Webstorm 2018.1 version automatically.
 - bug screenshots is in the assets file name as debug-with-no-response
 
-### Thanks for Angular team. Hail 2 Angular 
+### Thanks for Angular team. Hail 2 Angular`` 
